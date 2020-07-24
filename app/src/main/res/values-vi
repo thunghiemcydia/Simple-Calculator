@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Máy tính cơ bản</string>
+    <string name="app_launcher_name">Máy tính</string>
+    <string name="scientific_calculator">Máy tính khoa học</string>
+
+    <!-- Calculator field -->
+    <string name="formula_divide_by_zero_error">Không thể chia cho 0</string>
+
+    <!-- Cài đặt -->
+    <string name="vibrate_on_button_press">Rung khi nhập các giá trị</string>
+
+
+    
+    <!-- Câu hỏi thường gặp -->
+    <string name="faq_1_title">Cách thức hoạt động của nút C(xóa tất cả)?</string>
+    <string name="faq_1_text">Chạm nhẹ vào để xóa một ký tự.Chạm và giữ để xóa toàn bộ.</string>
+    
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Máy tính cơ bản - Tính toán các phép tính cơ bản</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Ứng dụng tính toán cơ bản, không có quảng cáo</string>
+     <string name="app_long_description">
+	        Ứng dung tính toán. Bạn có thể sao chép kết quả hay công thức vào bộ nhớ tạm bằng cách nhấn và giữ
+
+	        Ứng dụng tính toán đơn giản này giúp tính toán nhanh các phép tính cơ bản bao gồm cộng, trừ, nhân chia
+	
+	        Có thể làm điện thoại run sau mỗi nút bấm nhằm mang đến sự tự tin khi nhập các giá trị.Bạn có thể sao chép kết quả hay công thức vào bộ nhớ tạm bằng cách nhấn và giữ
+
+	        Có lựa chọn để ngăn điện thoại bước vào chế độ ngủ khi đang sử dụng ứng dụng nhằm mang lại sự sử dụng thoải máy nhất
+	
+	        Màu của các văn bản có thể được tùy chỉnh theo sở thích, bấm vào kết quả hay công thức trong widget để mở ứng dụng
+	
+	        Ứng dụng này có thiết kế phẳng và màu nền tối theo mặc định, cung cấp trải nghiệm người dùng tốt nhất theo cách dễ nhất. Ứng dụng không có quyền truy cập inernet mang đến cho bạn sự riêng tư, bảo mật và ổn định hơn so với các ứng dụng khác.
+
+	        Ứng dụng này không có quảng cáo. Chỉ yêu cầu cấp quyền khi thật cần thiết. Hoàn toàn là mã nguồn mở, có thể thay đổi màu nền tùy thích
+
+        <b>Tham khảo thêm các ứng dụng khác tại đây:</b>
+
+        https://www.simplemobiletools.com
+
+        <b>Facebook:</b>
+
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+
+        https://www.reddit.com/r/SimpleMobileTools
+
+    </string>
+
+    <!--
+
+        Haven't found some strings? There's more at
+
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+
+    -->
+        
+
+	
+
